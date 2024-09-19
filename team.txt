@@ -3,8 +3,5 @@ Daniel
 Michael
 Gisela
 Thomas
-<<<<<<< HEAD
 Omer
 
-=======
->>>>>>> 5a4c39b863ed97991d44dde60ad4021729b06fe6
